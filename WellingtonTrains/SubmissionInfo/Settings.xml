@@ -1,0 +1,6 @@
+<MarketplaceDetails>
+  <SmallAppTile>train_med.png</SmallAppTile>
+  <LargeAppTile>train_large.png</LargeAppTile>
+  <PCAppTile>train_huge.png</PCAppTile>
+  <ScreenShots>screenshot.png;;;;;;;;</ScreenShots>
+</MarketplaceDetails>
