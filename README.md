@@ -8,3 +8,8 @@ To install and get it to build:
 2.get and install the windows phone sdk from https://dev.windowsphone.com/en-us/downloadsdk
 3.get nuget from http://nuget.codeplex.com/
 4.from nuget install Coding4Fun.Phone.Controls and SilverlightToolkitWP
+
+
+## Contributions
+"it's not abandonware, it's opensource".  
+Send me a pull request, i'll give it a quick check and add it if it doesn't make the code any worse.
