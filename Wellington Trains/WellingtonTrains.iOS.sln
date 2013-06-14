@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webscraper.iOS", "WebScraper\Webscraper.iOS.csproj", "{BD9575E6-9A36-4590-9F63-BC201ECD6BE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellingtonTrains.iOS", "WellingtonTrains.iOS\WellingtonTrains.iOS.csproj", "{A77289B4-6C1C-43BC-A3F7-D3E609243C46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A77289B4-6C1C-43BC-A3F7-D3E609243C46}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{A77289B4-6C1C-43BC-A3F7-D3E609243C46}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{A77289B4-6C1C-43BC-A3F7-D3E609243C46}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{A77289B4-6C1C-43BC-A3F7-D3E609243C46}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{A77289B4-6C1C-43BC-A3F7-D3E609243C46}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A77289B4-6C1C-43BC-A3F7-D3E609243C46}.Debug|iPhone.Build.0 = Debug|iPhone
+		{A77289B4-6C1C-43BC-A3F7-D3E609243C46}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A77289B4-6C1C-43BC-A3F7-D3E609243C46}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A77289B4-6C1C-43BC-A3F7-D3E609243C46}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A77289B4-6C1C-43BC-A3F7-D3E609243C46}.Release|iPhone.Build.0 = Release|iPhone
+		{A77289B4-6C1C-43BC-A3F7-D3E609243C46}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A77289B4-6C1C-43BC-A3F7-D3E609243C46}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{BD9575E6-9A36-4590-9F63-BC201ECD6BE5}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{BD9575E6-9A36-4590-9F63-BC201ECD6BE5}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{BD9575E6-9A36-4590-9F63-BC201ECD6BE5}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{BD9575E6-9A36-4590-9F63-BC201ECD6BE5}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{BD9575E6-9A36-4590-9F63-BC201ECD6BE5}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BD9575E6-9A36-4590-9F63-BC201ECD6BE5}.Debug|iPhone.Build.0 = Debug|iPhone
+		{BD9575E6-9A36-4590-9F63-BC201ECD6BE5}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BD9575E6-9A36-4590-9F63-BC201ECD6BE5}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BD9575E6-9A36-4590-9F63-BC201ECD6BE5}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BD9575E6-9A36-4590-9F63-BC201ECD6BE5}.Release|iPhone.Build.0 = Release|iPhone
+		{BD9575E6-9A36-4590-9F63-BC201ECD6BE5}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BD9575E6-9A36-4590-9F63-BC201ECD6BE5}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = WellingtonTrains.iOS\WellingtonTrains.iOS.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Lines>
+	<Line>
+		<Id>JVL</Id>
+		<Name>Johnsonville</Name>
+	</Line>
+	<Line>
+		<Id>KPL</Id>
+		<Name>Kapiti</Name>
+	</Line>
+	<Line>
+		<Id>HVL</Id>
+		<Name>Hutt Valley</Name>
+	</Line>
+	<Line>
+		<Id>MEL</Id>
+		<Name>Melling</Name>
+	</Line>
+	<Line>
+		<Id>WRL</Id>
+		<Name>Wairarapa</Name>
+	</Line>
+</Lines>

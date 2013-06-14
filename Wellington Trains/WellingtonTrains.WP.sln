@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellingtonTrains.WP", "WellingtonTrains.WP\WellingtonTrains.WP.csproj", "{B9E4C0F2-2252-4829-8844-7C123422804E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{60563A80-391C-4C8D-B80A-A10E4DEE0A6B} = {60563A80-391C-4C8D-B80A-A10E4DEE0A6B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScraper.WP", "WebScraper\WebScraper.WP.csproj", "{60563A80-391C-4C8D-B80A-A10E4DEE0A6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9E4C0F2-2252-4829-8844-7C123422804E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E4C0F2-2252-4829-8844-7C123422804E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E4C0F2-2252-4829-8844-7C123422804E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B9E4C0F2-2252-4829-8844-7C123422804E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E4C0F2-2252-4829-8844-7C123422804E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E4C0F2-2252-4829-8844-7C123422804E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{60563A80-391C-4C8D-B80A-A10E4DEE0A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60563A80-391C-4C8D-B80A-A10E4DEE0A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60563A80-391C-4C8D-B80A-A10E4DEE0A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60563A80-391C-4C8D-B80A-A10E4DEE0A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
